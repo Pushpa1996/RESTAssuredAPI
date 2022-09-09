@@ -16,8 +16,9 @@ public class CreateFolder {
 	
 	
 	 public static String folderCreation () {        
-	       
-		String path = "P:\\Automation\\APITestingFramework\\ExtentReports\\Report_"+dateName;
+		
+		String path =System.getProperty("user.dir")+"\\ExtentReports\\Report_"+dateName;
+		 System.out.println("-----------folderCreationpath-------------------"+path);
 	      //Using Scanner class to get the folder name from the user  
 	      System.out.println( "desired a directory"+path);  
 	      

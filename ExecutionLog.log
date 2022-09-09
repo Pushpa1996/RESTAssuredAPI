@@ -826,3 +826,57 @@
 09 Sep 2022 09:30:07,960  INFO [utility.Log:67] gameUserId:USUD_0_1@localhost
 09 Sep 2022 09:30:07,984  INFO [utility.Log:76] gameHost:USUD_0_1@localhost
 09 Sep 2022 09:30:08,008  INFO [utility.Log:85] gameToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqaWQiOiJVU1VEXzBfMUBsb2NhbGhvc3QiLCJleHAiOiJNb24gT2N0IDI0IDA5OjMwOjA2IElTVCAyMDIyIn0.mzDCeroR16j4VddT_d5ljlxtQ_7gAkwrlAsVXhMtxEw
+09 Sep 2022 10:58:16,642  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 10:58:16,685  INFO [utility.Log:97] Server Time :1662701294062
+09 Sep 2022 10:58:16,710  INFO [utility.Log:105] OTP Expire Time:1663565294045
+09 Sep 2022 10:58:17,897  INFO [utility.Log:43] User ID :USUD_0_3
+09 Sep 2022 10:58:17,921  INFO [utility.Log:51] Server Time :1662701296863
+09 Sep 2022 10:58:17,945  INFO [utility.Log:59] OTP Expire Time:1663565296846
+09 Sep 2022 10:58:18,455  INFO [utility.Log:43] User ID :USUD_0_4
+09 Sep 2022 10:58:18,482  INFO [utility.Log:51] Server Time :1662701297423
+09 Sep 2022 10:58:18,516  INFO [utility.Log:59] OTP Expire Time:1663565297404
+09 Sep 2022 10:58:19,008  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 10:58:19,031  INFO [utility.Log:97] Server Time :1662701297982
+09 Sep 2022 10:58:19,054  INFO [utility.Log:105] OTP Expire Time:1663565297964
+09 Sep 2022 10:58:20,134  INFO [utility.Log:42] userAccountStatus :NewUser
+09 Sep 2022 10:58:20,155  INFO [utility.Log:50] loginType :ExistingUserWithSameDevice
+09 Sep 2022 10:58:20,173  INFO [utility.Log:58] accessToken:Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjI3MDEyOTksInN1YiI6InJ1bW15c2Vhc29uIiwidXNlcklkIjoiVVNVRF8wXzEiLCJkZXZpY2VUeXBlIjoiQU5EUk9JRCIsImRldmljZUlkIjoiMjIyMjIyMjIiLCJpcEFkZHJlc3MiOiIxNzIuMjAuNzcuMjE4Iiwicm9sZXMiOlsiUk9MRV9QTEFZRVIiXSwiaXNzIjoicnVtbXlzZWFzb24iLCJleHAiOjE2NjI4NzQwOTkwOTMsInJlZnJlc2giOjE2NjMxMzMyOTkwMDZ9.1pxQ0bEiAjggSt--aC_N_UWvvaQVl9xaOZ-SbVlVaYo
+09 Sep 2022 10:58:20,201  INFO [utility.Log:67] gameUserId:USUD_0_1@localhost
+09 Sep 2022 10:58:20,231  INFO [utility.Log:76] gameHost:USUD_0_1@localhost
+09 Sep 2022 10:58:20,253  INFO [utility.Log:85] gameToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqaWQiOiJVU1VEXzBfMUBsb2NhbGhvc3QiLCJleHAiOiJNb24gT2N0IDI0IDEwOjU4OjE5IElTVCAyMDIyIn0.xo7pePLp53UsryxGqp0GE4nKhmoRMS5eTZg3KfC-8Mc
+09 Sep 2022 11:01:13,888  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 11:01:13,930  INFO [utility.Log:97] Server Time :1662701471582
+09 Sep 2022 11:01:13,951  INFO [utility.Log:105] OTP Expire Time:1663565471564
+09 Sep 2022 11:01:15,189  INFO [utility.Log:43] User ID :USUD_0_3
+09 Sep 2022 11:01:15,209  INFO [utility.Log:51] Server Time :1662701474158
+09 Sep 2022 11:01:15,230  INFO [utility.Log:59] OTP Expire Time:1663565474049
+09 Sep 2022 11:01:15,743  INFO [utility.Log:43] User ID :USUD_0_4
+09 Sep 2022 11:01:15,766  INFO [utility.Log:51] Server Time :1662701474686
+09 Sep 2022 11:01:15,787  INFO [utility.Log:59] OTP Expire Time:1663565474605
+09 Sep 2022 11:01:16,368  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 11:01:16,404  INFO [utility.Log:97] Server Time :1662701475330
+09 Sep 2022 11:01:16,449  INFO [utility.Log:105] OTP Expire Time:1663565475258
+09 Sep 2022 11:01:17,656  INFO [utility.Log:42] userAccountStatus :NewUser
+09 Sep 2022 11:01:17,676  INFO [utility.Log:50] loginType :ExistingUserWithSameDevice
+09 Sep 2022 11:01:17,696  INFO [utility.Log:58] accessToken:Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjI3MDE0NzYsInN1YiI6InJ1bW15c2Vhc29uIiwidXNlcklkIjoiVVNVRF8wXzEiLCJkZXZpY2VUeXBlIjoiQU5EUk9JRCIsImRldmljZUlkIjoiMjIyMjIyMjIiLCJpcEFkZHJlc3MiOiIxNzIuMjAuNjIuMSIsInJvbGVzIjpbIlJPTEVfUExBWUVSIl0sImlzcyI6InJ1bW15c2Vhc29uIiwiZXhwIjoxNjYyODc0Mjc2NjE3LCJyZWZyZXNoIjoxNjYzMTMzNDc2NDYzfQ.uYGWicC8ohX955xEow2oULzHvGtF1kOxbwvaKmuFpMM
+09 Sep 2022 11:01:17,721  INFO [utility.Log:67] gameUserId:USUD_0_1@localhost
+09 Sep 2022 11:01:17,743  INFO [utility.Log:76] gameHost:USUD_0_1@localhost
+09 Sep 2022 11:01:17,768  INFO [utility.Log:85] gameToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqaWQiOiJVU1VEXzBfMUBsb2NhbGhvc3QiLCJleHAiOiJNb24gT2N0IDI0IDExOjAxOjE2IElTVCAyMDIyIn0.33v58RreceNpK5tDr_QXKrwa_G35JuiI4wub0jxCmDc
+09 Sep 2022 11:03:36,237  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 11:03:36,279  INFO [utility.Log:97] Server Time :1662701613735
+09 Sep 2022 11:03:36,308  INFO [utility.Log:105] OTP Expire Time:1663565613665
+09 Sep 2022 11:03:37,393  INFO [utility.Log:43] User ID :USUD_0_3
+09 Sep 2022 11:03:37,417  INFO [utility.Log:51] Server Time :1662701616366
+09 Sep 2022 11:03:37,442  INFO [utility.Log:59] OTP Expire Time:1663565616285
+09 Sep 2022 11:03:38,043  INFO [utility.Log:43] User ID :USUD_0_4
+09 Sep 2022 11:03:38,077  INFO [utility.Log:51] Server Time :1662701617007
+09 Sep 2022 11:03:38,106  INFO [utility.Log:59] OTP Expire Time:1663565616926
+09 Sep 2022 11:03:38,607  INFO [utility.Log:89] User ID :USUD_0_2
+09 Sep 2022 11:03:38,630  INFO [utility.Log:97] Server Time :1662701617576
+09 Sep 2022 11:03:38,653  INFO [utility.Log:105] OTP Expire Time:1663565617564
+09 Sep 2022 11:03:39,730  INFO [utility.Log:42] userAccountStatus :NewUser
+09 Sep 2022 11:03:39,750  INFO [utility.Log:50] loginType :ExistingUserWithSameDevice
+09 Sep 2022 11:03:39,769  INFO [utility.Log:58] accessToken:Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NjI3MDE2MTgsInN1YiI6InJ1bW15c2Vhc29uIiwidXNlcklkIjoiVVNVRF8wXzEiLCJkZXZpY2VUeXBlIjoiQU5EUk9JRCIsImRldmljZUlkIjoiMjIyMjIyMjIiLCJpcEFkZHJlc3MiOiIxMDAuOTYuNS4xIiwicm9sZXMiOlsiUk9MRV9QTEFZRVIiXSwiaXNzIjoicnVtbXlzZWFzb24iLCJleHAiOjE2NjI4NzQ0MTg2ODQsInJlZnJlc2giOjE2NjMxMzM2MTg0NTh9.K1wTO5n61iiWjHCmcA1Q05LWfd-yOEBpBcuEzJZes7U
+09 Sep 2022 11:03:39,791  INFO [utility.Log:67] gameUserId:USUD_0_1@localhost
+09 Sep 2022 11:03:39,813  INFO [utility.Log:76] gameHost:USUD_0_1@localhost
+09 Sep 2022 11:03:39,832  INFO [utility.Log:85] gameToken:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqaWQiOiJVU1VEXzBfMUBsb2NhbGhvc3QiLCJleHAiOiJNb24gT2N0IDI0IDExOjAzOjM4IElTVCAyMDIyIn0.wdEoeavqWn5wEPiVItlnGWzpC7AxhTgTuufzZZ1W-RA
